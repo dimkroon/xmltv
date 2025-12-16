@@ -1,0 +1,693 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" />
+  </channel>
+  <programme start="20260813215500" channel="C111.api.telerama.fr" stop="20260814003000">
+    <title>Jeunesse (Retour au pays)</title>
+    <desc lang="fr">Le Nouvel An approche et les ateliers textiles de Zhili sont presque déserts. Les quelques ouvriers qui restent peinent à se faire payer avant de partir. Des rives du Yangtsé aux montagnes du Yunnan, tout le monde rentre célébrer la nouvelle année dans sa ville natale. Pour Shi Wei, c'est aussi l'occasion de se marier, ainsi que pour Fang Lingping. Son mari, un ancien informaticien, devra la suivre à Zhili après la cérémonie. L'apprentissage est rude mais ne freine pas l'avènement d'une nouvelle génération d'ouvriers...</desc>
+    <credits>
+      <director> Wang Bing </director>
+    </credits>
+    <date> 2025 </date>
+    <category lang="fr">film</category>
+    <length units="minutes">155</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/07/30/fffa52b6b5464625b5498c755652652d.jpg" />
+    <country lang="fr">France</country>
+    <country lang="fr">Luxembourg</country>
+    <country lang="fr">Pays-Bas</country>
+    <country lang="fr">Chine</country>
+    <country lang="fr">HongKong</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260814003000" channel="C111.api.telerama.fr" stop="20260814011500">
+    <title>La vie cachée des requins : Dans le sanctuaire des îles Galápagos</title>
+    <desc lang="fr">Les requins tant redoutés sont essentiels pour la biodiversité marine. Comment vivent-ils ? Où se réfugient-ils lorsqu'ils se sentent menacés ?</desc>
+    <credits>
+      <director> Lynn Klockow </director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/07/22/89719002bfc24bf691799265b7764d4a.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814011500" channel="C111.api.telerama.fr" stop="20260814020500">
+    <title>Les parcs nationaux du Royaume-Uni</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Dans le sud-ouest de l'Angleterre, le Dartmoor est connu pour ses paysages de landes parsemés de reliefs granitiques. Il héberge de nombreuses espèces de plantes et d'animaux.</desc>
+    <credits>
+      <director>Lina Schuller</director>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/19/6133853eef704219ac7a6d4457c5d1c6.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814020500" channel="C111.api.telerama.fr" stop="20260814023100">
+    <title>Cuisines des terroirs</title>
+    <desc lang="fr">Un ami d'Angélique, marin pêcheur à Cavalaire, se lance dans le fumage de rougets et de ravelles en couvrant la braise de romarin et de sciure de hêtre.</desc>
+    <credits>
+      <director> Lorenz Findeisen</director>
+      <director>Paul Pflüger </director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">26</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/07/13/ab0c20f83ee74c0ba80ce9c9bd7abd07.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814023100" channel="C111.api.telerama.fr" stop="20260814030000">
+    <title>Fin des programmes</title>
+    <desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <credits>
+      <presenter> Jean-Michel Zecca </presenter>
+    </credits>
+    <category lang="fr">fin</category>
+    <length units="minutes">29</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/5082fc1130de4236aba8e47314c5d2c1.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814030000" channel="C111.api.telerama.fr" stop="20260814035500">
+    <title>Christoph Waltz : Un méchant bien charmant</title>
+    <desc lang="fr">Viennois né sous le signe du théâtre, Christoph Waltz, fils d'une costumière autrichienne et d'un décorateur allemand, petit-fils d'une actrice du prestigieux Burgtheater, aura attendu l'âge mûr pour connaître une notoriété mondiale. À 53 ans, le rôle du nazi polyglotte Hans Landa, le "chasseur de Juifs" suave, raffiné et sadique de "Inglorious Basterds", de Quentin Tarantino, lui vaut entre autres un Oscar et une Palme à Cannes, et la reconnaissance immédiate de Hollywood, où il obtient son étoile sur le Walk of Fame. "Django Unchained", qui lui apporte son deuxième Oscar, consacre le talent de cet homme réservé et charmant pour composer d'insondables méchants. Il le confirme en endossant avec jubilation le costume de l'un des meilleurs ennemis de 007 dans "Spectre", puis "Mourir peut attendre".</desc>
+    <credits>
+      <director> Kurt Mayer </director>
+      <writer> Kurt Mayer</writer>
+      <writer>Gabriele Flossmann </writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/12/20a45ce0696f44ffa7807baf3e932352.jpg" />
+    <country lang="fr">Autriche</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814035500" channel="C111.api.telerama.fr" stop="20260814042500">
+    <title>Cohabiter avec des animaux sauvages</title>
+    <desc lang="fr">Des passionnées s'engagent pour offrir un foyer à des animaux sauvages. Mais leur combat freiné par le manque de moyens et les obstacles juridiques.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/15/d63d00ed21834893bb8b32fa31f35ab9.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814035500" channel="C111.api.telerama.fr" stop="20260814042500">
+    <title>Cohabiter avec des animaux sauvages</title>
+    <desc lang="fr">Des passionnées s'engagent pour offrir un foyer à des animaux sauvages. Mais leur combat freiné par le manque de moyens et les obstacles juridiques.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/15/d63d00ed21834893bb8b32fa31f35ab9.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814042500" channel="C111.api.telerama.fr" stop="20260814045500">
+    <title>Enquêtes archéologiques</title>
+    <desc lang="fr">Saison:2 - Episode:3 - En l'an 986, après avoir été banni de Norvège puis d'Islande, le chef viking Erik le Rouge part à la conquête du Groenland : Peter Eeckhout enquête.</desc>
+    <credits>
+      <director>Agnès Molia</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/22/15530bb732ba4267b455c30ea7be684e.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814045500" channel="C111.api.telerama.fr" stop="20260814055000">
+    <title>Cotentin, des marais entre terre et mer</title>
+    <desc lang="fr">Les marais du Cotentin, qui s'étendent sur 30 000 hectares, constituent un refuge pour les oiseaux migrateurs et un réservoir de diversité biologique.</desc>
+    <credits>
+      <director> Thomas Delorme</director>
+      <director>Paul Degeneve </director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/07/19/4d97eb411a7c457aa9d486cbadf37ae6.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814055000" channel="C111.api.telerama.fr" stop="20260814062000">
+    <title>Voyage en cuisine</title>
+    <desc lang="fr">Légumes sautés, viande relevée d'une sauce soja et d'une sauce d'huîtres : Raphaël est allé découvrir le chop suey, un plat qui raconte la part chinoise de La Réunion.</desc>
+    <credits>
+      <presenter> Pierre Raffard </presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/28/33899464ae6841b38d1fb9c1b0caf971.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814062000" channel="C111.api.telerama.fr" stop="20260814070500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Le Japon évanoui de Kawabata - Le Salvador couleur bleu indigo - Au Sri Lanka, le riz au lait de coco de Kusuma - À Delphes, un retour à l'antique.</desc>
+    <credits>
+      <presenter> Linda Lorin </presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/23/980eaf758b04492082fdf050024b367f.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814070500" channel="C111.api.telerama.fr" stop="20260814075500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Le philosophe norvégien Arne Næss trouve dans la nature âpre l'essence même de sa philosophie. De la pratique à la théorie, Arne Næss donne à l'écologie une expression philosophique. Dès les années 70, il élabore la notion d'écologie profonde au fil de ses ouvrages, en particulier "Écologie, communauté et style de vie".</desc>
+    <credits>
+      <presenter> Linda Lorin </presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/16/70676c20dd194891ac18b3d5b73979a7.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814075500" channel="C111.api.telerama.fr" stop="20260814084000">
+    <title>A la croisée des fleuves</title>
+    <desc lang="fr">Saison:1 - Episode:1 - Au fil des fleuves d'Europe, exploration des villes et paysages du continent. Départ de Potsdam en direction de Prague, le long de la rivière Havel.</desc>
+    <credits>
+      <director>Johannes Backes</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/12/31da3327035d474281f57241e91016e1.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814084000" channel="C111.api.telerama.fr" stop="20260814092500">
+    <title>A la croisée des fleuves</title>
+    <desc lang="fr">Saison:1 - Episode:2 - C'est à Trévoux, dans l'Ain, que commence ce périple qui doit mener à Arles en descendant la Saône et le Rhône. Une première escale a lieu à Lyon, où un facteur, un artiste et des citoyens engagés déambulent dans les quartiers historiques traversés de traboules, ruelles couvertes caractéristiques de la capitale des Gaules. À quelques kilomètres de la métropole, un chercheur spécialiste des libellules explore un ancien bras du Rhône. Le voyage se poursuit plus au sud et fait halte en Ardèche, à la découverte de ses fameuses châtaigneraies, puis à Avignon, le temps de visiter sa cathédrale. Non loin de cette ville chargée d'histoire, des agriculteurs provençaux s'affairent au milieu des champs de lavande. Plus au sud, en Camargue, les rizières dominent le paysage.</desc>
+    <credits>
+      <director>Johannes Backes</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/13/b3209b71bacc49c9b08ecc89310f8c81.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814092500" channel="C111.api.telerama.fr" stop="20260814101000">
+    <title>A la croisée des fleuves</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Exploration des régions fluviales qui s'étendent d'Amsterdam à Anvers, et notamment le delta de la Meuse et du Rhin, régulièrement victime d'inondations.</desc>
+    <credits>
+      <director>Johannes Backes</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/14/5ea18816e8b547948b3e2f19d6aa55de.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814101000" channel="C111.api.telerama.fr" stop="20260814105500">
+    <title>A la croisée des fleuves</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Un voyage de 2000 kilomètres sur le Danube, au départ de Passau et en direction de la mer Noire, en passant par Vienne, Bratislava, Budapest et Belgrade.</desc>
+    <credits>
+      <director>Johannes Backes</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/15/d7a34d4a844e4e26a5d8c1c2c34918ab.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814105500" channel="C111.api.telerama.fr" stop="20260814113500">
+    <title>Nomade des mers, les escales de l'innovation</title>
+    <desc lang="fr">Saison:1 - Episode:1 - A peine parti de Madagascar, le Nomade des mers subit une nouvelle avarie. Dans une nuit noire sans lune, un coup de vent a brutalement cassé le mât. Heureusement, le bateau approche des Seychelles et met le cap sur la capitale, Victoria. Mais à l'arrivée, une autre déconvenue attend Corentin et son équipage. Loin d'être découragés, les marins reprennent espoir et partent à la rencontre de ceux qui transforment les huiles usagées en biodiesel. Corentin mesure l'importance de cette innovation car c'est grâce au peu de diesel que contient le réservoir du bateau qu'il a pu rejoindre Victoria, quelques heures auparavant.</desc>
+    <credits>
+      <director>Jacques Offre</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/19/1bc5661c7ec84fe49a9c3b62169b83be.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814113500" channel="C111.api.telerama.fr" stop="20260814140000">
+    <title>L'homme qui tua Liberty Valance</title>
+    <desc lang="fr">Après des années d'absence, le sénateur Ransom Stoddard retourne à Shinbone avec sa femme Hallie pour assister à l'enterrement de son vieil ami, Tom Doniphon. Les journalistes s'interrogent : pourquoi le sénateur a-t-il tenu à faire ce voyage à tout prix ? Qui était donc ce Tom Doniphon ? Retour sur l'histoire de Ransom Stoddard. Jeune juriste, il avait quitté l'Est pour le Far West. Sa diligence ayant été attaquée par des bandits, Ransom Stoddard s'était indigné et le chef de la bande, Liberty Valance, l'avait alors sauvagement frappé. Une haine inexpiable devait lier les deux hommes, mais Stoddard avait beaucoup à apprendre sur les moeurs de l'Ouest...</desc>
+    <credits>
+      <director> John Ford </director>
+      <actor>John Wayne</actor>
+      <actor>James Stewart</actor>
+      <actor>Vera Miles</actor>
+      <actor>Lee Marvin</actor>
+      <actor>Edmond O'Brien</actor>
+      <actor>Andy Devine</actor>
+      <actor>Lee Van Cleef</actor>
+      <actor>Ken Murray</actor>
+      <actor>John Carradine</actor>
+      <actor>Jeanette Nolan</actor>
+      <actor>John Qualen</actor>
+      <actor>Willis Bouchey</actor>
+      <writer> James Warner Bellah</writer>
+      <writer>Willis Goldbeck </writer>
+    </credits>
+    <date> 1962 </date>
+    <category lang="fr">film</category>
+    <length units="minutes">145</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/04/68011b9136b4487e814098ea7bbb2dc0.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260814140000" channel="C111.api.telerama.fr" stop="20260814144500">
+    <title>Dynasties</title>
+    <desc lang="fr">Saison:2 - Episode:4 - En Zambie, dans les plaines de Liuwa, un clan de hyènes tachetées fait face à de grands bouleversements : une terrible sécheresse sévit dans la région.</desc>
+    <credits>
+      <director>Felicity Lanchester</director>
+      <director>Mandi Stark</director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/25/ccd8a824a3ef41a9b8e13ea518fb29f7.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814144500" channel="C111.api.telerama.fr" stop="20260814153000">
+    <title>Dynasties</title>
+    <desc lang="fr">Saison:2 - Episode:7 - Un nouveau chef inexpérimenté émerge parmi les macaques. Il doit consolider son pouvoir et affronter les groupes rivaux tout en s'aventurant loin de son territoire.</desc>
+    <credits>
+      <director>Rosie Thomas</director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/08/9d781876541d493a848a3c9b9e59d522.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814153000" channel="C111.api.telerama.fr" stop="20260814161500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au sommaire : "Dans l'enfer des mines avec Emile Zola" .- "Le sing-sing, spectacle de la nation papoue". - "En Suisse, le pavé de cerf". - "La quête d'une océanographe".</desc>
+    <credits>
+      <presenter> Linda Lorin </presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/17/eb8a67b1dd154951b550cf90dbb4a5c7.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814161500" channel="C111.api.telerama.fr" stop="20260814170000">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au Salvador, la révolution en poésie de Roque Dalton. - A Rennes, les utopies verticales. - Au Sri Lanka, le curry de maquereau de Wasanthi. - A Dublin, des infiltrés au château</desc>
+    <credits>
+      <presenter> Linda Lorin </presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/07/35100f23a0044413b887b544e00bb845.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814170000" channel="C111.api.telerama.fr" stop="20260814173000">
+    <title>Cuisines des terroirs</title>
+    <desc lang="fr">Férues d'herbes aromatiques et de recettes ancestrales, Tilde et Fernanda récoltent des herbes fraîches et des feuilles de cactus sur l'île d'Ischia.</desc>
+    <credits>
+      <director> Britta Rating </director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/08/01/cf8ea70a32ae4db1a671456621a1fbc2.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814173000" channel="C111.api.telerama.fr" stop="20260814174500">
+    <title>Karambolage</title>
+    <desc lang="fr">La série télévisée Barbapapa ; le jeu de la "pipopipette", qui se dit Käsekästchen en allemand ; les toits de Berlin et, bien sûr, la devinette.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/17/41ce4013ec944b709028c0ca881ebb97.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814174500" channel="C111.api.telerama.fr" stop="20260814180500">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814180500" channel="C111.api.telerama.fr" stop="20260814185200">
+    <title>28 minutes</title>
+    <desc lang="fr">Bonne humeur et esprits affutés : cet été, les clubs de "28 minutes" reviennent sur l'actualité de la semaine, le vendredi avec des intervenants français, le samedi aux côtés d'experts internationaux.</desc>
+    <credits>
+      <presenter> Benjamin Sportouch </presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">47</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/18/486bd4f787b14da5a001b68b22ac597f.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260814185200" channel="C111.api.telerama.fr" stop="20260814185500">
+    <title>Putain de chat !</title>
+    <desc lang="fr">Saison:1 - Episode:25 - Moustique est dépité : il se ramollit et son maitre l'a bien compris. Mais soutenu par son amie Cath, il va rappeler à Stéphane qu'il est un véritable félin.</desc>
+    <credits>
+      <director>Christophe Gautry</director>
+      <writer>Lapuss'</writer>
+      <writer>Tartuff</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/08/01/d608cfe934c6435aa2bc38d9f4aa0995.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260814185500" channel="C111.api.telerama.fr" stop="20260814202500">
+    <title>Meurtres à Sandhamn</title>
+    <desc lang="fr">Saison:9 - Episode:1 - Nadia, blessée et traumatisée, lui raconte qu'elle faisait partie d'un groupe de migrants et qu'elle a dû s'échapper du cargo qui la transportait pour sauver sa vie. Un voilier est bientôt découvert dérivant dans le port voisin, couvert de traces de sang. Alexander, qui vient de renouer avec une ancienne amante, Karoline, se voit confier l'enquête avec le jeune Valpen. Ils sont rejoints par un agent français : en effet, le sang prélevé sur le bateau s'est révélé être celui d'un terroriste activement recherché en France. Lorsque le cadavre de ce dernier est à son tour retrouvé sur la plage, Nora commence à douter du récit que lui a fait Nadia…</desc>
+    <credits>
+      <director>Mattias Ohlsson</director>
+      <actor>Alexandra Rapaport</actor>
+      <writer>Viveca Sten</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/07/4de64985225849f0b19acc186a2caa11.jpg" />
+    <country lang="fr">Suède</country>
+    <episode-num system="xmltv_ns">8.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260814202500" channel="C111.api.telerama.fr" stop="20260814220000">
+    <title>Meurtres à Sandhamn</title>
+    <desc lang="fr">Saison:9 - Episode:2 - Deux squelettes sont découverts dans une cave. L'autopsie révèle qu'il s'agit des corps de deux jeunes gens disparus trente ans plus tôt alors qu'ils participaient à un camp de confirmation. Toutes les personnes présentes lors de ce rassemblement, parmi lesquelles figurent Nora, Henrik et Gisela, sont convoquées par la police pour être interrogées. Henrik se souvient qu'à l'époque du rassemblement, Esther s'interrogeait beaucoup sur les préceptes de la Bible par rapport à l'amour. De son côté, Nora voit de vieux souvenirs douloureux remonter à la surface. Dans ce moment difficile, elle peut compter sur le soutien d'Alexander...</desc>
+    <credits>
+      <director>Mattias Ohlsson</director>
+      <actor>Alexandra Rapaport</actor>
+      <actor>Nicolai Cleve Broch</actor>
+      <actor>Julius Fleischanderl</actor>
+      <actor>Gustaf Hammarsten</actor>
+      <actor>Anton Lundqvist</actor>
+      <actor>Jonas Malmsjö</actor>
+      <actor>Michaela Thorsén</actor>
+      <actor>Anna Sise</actor>
+      <actor>Yasmine Garbi</actor>
+      <actor>Henrik Norlén</actor>
+      <actor>Per Lasson</actor>
+      <actor>Charlotta Jonsson</actor>
+      <writer>Johan Widerberg</writer>
+      <writer>Sara Heldt</writer>
+      <writer>Sebastian Johansson</writer>
+    </credits>
+    <category lang="fr">serie</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/06/db6f5db5ba76420aac57b4f0de436384.jpg" />
+    <country lang="fr">Suède</country>
+    <episode-num system="xmltv_ns">8.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260814220000" channel="C111.api.telerama.fr" stop="20260814225500">
+    <title>Innommable : l'affaire Dutroux</title>
+    <desc lang="fr">Le 24 juin 1995, Mélissa et Julie, 8 ans, disparaissent dans la région de Liège, en Belgique. Deux mois plus tard, An et Eefje, 17 et 19 ans, se volatilisent à leur tour non loin de Bruges. En mai 1996, Sabine, 12 ans, est portée disparue dans la région de Tournai, près de la frontière française. Quelques semaines plus tard, Laetitia, 14 ans, est vue pour la dernière fois près de la piscine de Bertrix, dans le sud du pays. Entre ces jeunes filles, il n'existe aucun lien apparent. Peu après la disparition de Laetitia, des indices mettent enfin la police sur la piste de Marc Dutroux, 39 ans, déjà condamné pour séquestrations, enlèvements et viols sur mineurs. Grâce aux indications qu'il livre aux enquêteurs, Sabine et Laetitia sont retrouvées vivantes.</desc>
+    <credits>
+      <director> Joeri Vlekken </director>
+      <writer> Joeri Vlekken</writer>
+      <writer>Stéphane Bergmans </writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/25/7f99e6c0903c479197c2fd30c04a8c42.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260814225500" channel="C111.api.telerama.fr" stop="20260815000000">
+    <title>Innommable : l'affaire Dutroux</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Les retrouvailles de Laetitia et Sabine avec leur famille redonnent de l'espoir aux parents de Julie, Mélissa, An et Eefje. A Charleroi, les enquêteurs de la police scientifique découvrent la cache dans laquelle les deux survivantes ont été séquestrées. Cette découverte provoque une vive émotion, et des foules hurlent leur colère aux portes du palais de justice de Neufchâteau quand les premiers détenus, Marc Dutroux, sa compagne Michelle Martin et son complice Michel Lelièvre, sortent des fourgons pénitentiaires. Le chef de l'enquête poursuit ses interrogatoires avec le principal accusé, qui révèle où sont enterrées Julie et Mélissa. Au domicile du couple Dutroux-Martin est également retrouvé le corps sans vie de Bernard Weinstein, un complice que Dutroux a tué. Enfin, les dépouilles d'An et Eefje sont exhumées chez ce dernier.</desc>
+    <credits>
+      <director>Joeri Vlekken</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/18/e0c06f7f3dc14346a512ad496f030d98.jpg" />
+    <country lang="fr">Belgique</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>
